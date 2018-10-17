@@ -1,0 +1,126 @@
+\documentclass[english]{atlasnote}
+\usepackage{atlasphysics} % Contains useful shortcuts. Uncomment to use
+\RequirePackage{lineno} \setlength{\linenumbersep}{4pt}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{amssymb}
+\usepackage{url}
+\usepackage{cancel}
+\usepackage{morefloats}
+\usepackage{harpoon}
+\usepackage{caption}
+\usepackage{subcaption}
+\usepackage{amsmath}
+\usepackage{MnSymbol}
+\usepackage{multirow}
+\usepackage{enumitem}
+\usepackage[colorlinks,breaklinks]{hyperref}
+\hypersetup{linkcolor=blue,citecolor=blue,filecolor=black,urlcolor=blue}
+\usepackage{babel}
+\skipbeforetitle{50pt}
+\newcommand{\dd}[2]{\frac{\partial{#1}}{\partial{#2}}}
+
+
+
+\title{ Measurement of flow harmonics with multi-particle cumulants in Pb+Pb collisions at $\sqrt{s_{\text{NN}}}=5.02$ TeV with the ATLAS detector }
+
+\usepackage{authblk}\renewcommand{\Authands}{, } % avoid ``. and'' for last author
+\renewcommand{\Affilfont}{\itshape\small} % affiliation formatting
+\author[a]{Mingliang Zhou}
+\author[a,b]{Jiangyong Jia}
+\affil[a]{Department of Chemistry,Stony Brook University, Stony Brook, NY 11794, USA}
+\affil[b]{Brookhaven National Laboratory, Physics Department, Bldg. 510A, Upton, NY 11973, United States of America}
+
+\newcommand{\lr}[1]{\left\langle #1\right\rangle}
+
+\draftversion{2}
+
+\abstracttext{This internal note presents details of measurements of the multi-particle azimuthal anisotropy in lead-lead collisions at 5.02 TeV at the LHC in 2015. The measurements are performed for charged particles with various transverse momenta, from $0.5<p_{\text{T}}<5.0$ GeV to $2.0<p_{\text{T}}<5.0$ GeV, and in the pseudorapidity range $|\eta|<2.5$. The anisotropy is characterized by the cumulant form of Fourier coefficients, $c_{n}\{4\}$, of the charged-particle azimuthal angle distribution. The Fourier coefficients are evaluated using multi-particle cumulant calculated with the direct cumulant (Q-cumulant) method. For the first time, cumulant of the dipolar flow, $c_1\{4\}$, was measured as a function of centrality, with different $p_{\text{T}}$ ranges. Measurement of higher harmonic $c_4\{4\}$ is found to fall into the picture of linear and non-linear hydrodynamical response. In 2015 Pb+Pb run, ultra-central collision (UCC) triggers collected ample central events to perform detailed studies of cumulants in ultra-central collisions. To study the correlation between flow harmonics, the symmetric cumulant, as well as the recently proposed asymmetric cumulant, are also investigated. Furthermore, in order to evaluate the contributions from non-flow sources, the newly proposed subevent cumulant technique was also applied and compared with the standard cumulant method.}
+
+
+
+
+\begin{document}
+\tableofcontents
+\clearpage
+
+List of contributions
+\begin{itemize}
+\item \verb|Mingliang Zhou|
+\begin{itemize}
+\item Writing analysis code for the standard and sub-event cumulant calculation;
+\item Evaluating the systematic uncertainties in 5.02 TeV Pb+Pb;
+\item Writing the internal note;
+\item Writing the paper draft;
+\end{itemize}
+\item \verb|Jiangyong Jia|
+\begin{itemize}
+\item Exploring flow fluctuation in the ultra-central collision;
+\item Producing final physics plots;
+\item Writing the paper draft;
+\end{itemize}
+\end{itemize}
+\clearpage
+
+\section{Introduction}
+\label{sec:intro}
+\input{sec_intro}
+\clearpage
+
+\section{Survey of published results on cumulant in Pb+Pb collisions}
+\label{sec:pre}
+\input{sec_pre}
+\clearpage
+
+\section{Detector, trigger and offline event selection}
+\label{sec:evtSel}
+\input{sec_evtSel}
+\clearpage
+
+\section{Track selection, efficiency and fakes}
+\label{sec:trkSel}
+\input{sec_trkSel}
+\clearpage
+
+\section{Methodology}
+\label{sec:method}
+\input{sec_method}
+\clearpage
+
+\section{Analysis}
+\label{sec:ana}
+\input{sec_ana}
+\clearpage
+
+\section{Systematics and cross-checks}
+\label{sec:sys}
+\input{sec_sys}
+\clearpage
+
+\section{Results}
+\label{sec:result}
+\input{sec_result}
+\clearpage
+
+\section{Selected plots for the paper}
+\label{sec:paper}
+\input{sec_paper}
+\clearpage
+
+\section{Summary}
+\label{sec:summary}
+\input{sec_summary}
+\clearpage
+
+\section{Appendix}
+\label{sec:appendix}
+\input{sec_appendix}
+\clearpage
+
+\bibliography{CumuPbPb}
+\bibliographystyle{ieeetr}
+
+\end{document}
+
+
+

@@ -1,0 +1,77 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Survey of published results on cumulant in Pb+Pb collisions}{}% 2
+\BOOKMARK [1][-]{section.3}{Detector, trigger and offline event selection}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Triggers}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Event selection}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Centrality}{section.3}% 6
+\BOOKMARK [1][-]{section.4}{Track selection, efficiency and fakes}{}% 7
+\BOOKMARK [2][-]{subsection.4.1}{Track selection}{section.4}% 8
+\BOOKMARK [2][-]{subsection.4.2}{Tracking in Monte-Carlo}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.3}{Efficiency}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.4}{Fakes}{section.4}% 11
+\BOOKMARK [1][-]{section.5}{Methodology}{}% 12
+\BOOKMARK [2][-]{subsection.5.1}{Outline}{section.5}% 13
+\BOOKMARK [2][-]{subsection.5.2}{Calculation of 2-, 4- and 6-particle correlation corrn\1732k\175}{section.5}% 14
+\BOOKMARK [3][-]{subsubsection.5.2.1}{Standard Q-cumulant method}{subsection.5.2}% 15
+\BOOKMARK [3][-]{subsubsection.5.2.2}{3-subevent Q-cumulant method}{subsection.5.2}% 16
+\BOOKMARK [2][-]{subsection.5.3}{Calculation of 2-, 4- and 6-particle cumulant cn\1732k\175}{section.5}% 17
+\BOOKMARK [3][-]{subsubsection.5.3.1}{Standard cumulant}{subsection.5.3}% 18
+\BOOKMARK [3][-]{subsubsection.5.3.2}{3-subevent cumulant}{subsection.5.3}% 19
+\BOOKMARK [2][-]{subsection.5.4}{Calculation of 2-, 4- and 6-particle flow signal vn\1732k\175}{section.5}% 20
+\BOOKMARK [2][-]{subsection.5.5}{Calculation of normalized cumulant ncn\1732k\175}{section.5}% 21
+\BOOKMARK [2][-]{subsection.5.6}{Universality check of flow fluctuation models}{section.5}% 22
+\BOOKMARK [2][-]{subsection.5.7}{Calculation of symmetric cumulant scn,m\1734\175 and nscn,m\1734\175}{section.5}% 23
+\BOOKMARK [3][-]{subsubsection.5.7.1}{Standard symmetric cumulant}{subsection.5.7}% 24
+\BOOKMARK [3][-]{subsubsection.5.7.2}{3-subevent symmetric cumulant}{subsection.5.7}% 25
+\BOOKMARK [2][-]{subsection.5.8}{Calculation of asymmetric cumulant acn,n+m\1733\175 and nacn,n+m\1733\175}{section.5}% 26
+\BOOKMARK [3][-]{subsubsection.5.8.1}{Standard asymmetric cumulant}{subsection.5.8}% 27
+\BOOKMARK [3][-]{subsubsection.5.8.2}{3-subevent asymmetric cumulant}{subsection.5.8}% 28
+\BOOKMARK [1][-]{section.6}{Analysis}{}% 29
+\BOOKMARK [2][-]{subsection.6.1}{Particle phase space}{section.6}% 30
+\BOOKMARK [2][-]{subsection.6.2}{Trigger weighting}{section.6}% 31
+\BOOKMARK [2][-]{subsection.6.3}{Flattening procedure}{section.6}% 32
+\BOOKMARK [2][-]{subsection.6.4}{Event class}{section.6}% 33
+\BOOKMARK [2][-]{subsection.6.5}{Mixed events}{section.6}% 34
+\BOOKMARK [2][-]{subsection.6.6}{Statistical uncertainty}{section.6}% 35
+\BOOKMARK [1][-]{section.7}{Systematics and cross-checks}{}% 36
+\BOOKMARK [2][-]{subsection.7.1}{Outline}{section.7}% 37
+\BOOKMARK [2][-]{subsection.7.2}{Ultra-central collision trigger efficiency}{section.7}% 38
+\BOOKMARK [2][-]{subsection.7.3}{Monte-Carlo closure}{section.7}% 39
+\BOOKMARK [2][-]{subsection.7.4}{Loose and tight track selection}{section.7}% 40
+\BOOKMARK [2][-]{subsection.7.5}{Lower and higher tracking efficiency}{section.7}% 41
+\BOOKMARK [2][-]{subsection.7.6}{Pileup rejection}{section.7}% 42
+\BOOKMARK [2][-]{subsection.7.7}{Detector effects from flattening procedure}{section.7}% 43
+\BOOKMARK [2][-]{subsection.7.8}{Centrality definition}{section.7}% 44
+\BOOKMARK [2][-]{subsection.7.9}{Event class bin width}{section.7}% 45
+\BOOKMARK [2][-]{subsection.7.10}{ gap for subevent}{section.7}% 46
+\BOOKMARK [2][-]{subsection.7.11}{Summary of systematics}{section.7}% 47
+\BOOKMARK [3][-]{subsubsection.7.11.1}{2-particle cumulant cn\1732\175}{subsection.7.11}% 48
+\BOOKMARK [3][-]{subsubsection.7.11.2}{4-particle cumulant cn\1734\175 and n\1734\175}{subsection.7.11}% 49
+\BOOKMARK [3][-]{subsubsection.7.11.3}{6-particle cumulant cn\1736\175 and n\1736\175}{subsection.7.11}% 50
+\BOOKMARK [3][-]{subsubsection.7.11.4}{Universality check of flow fluctuation}{subsection.7.11}% 51
+\BOOKMARK [3][-]{subsubsection.7.11.5}{Symmetric and normalized symmetric cumulant scn,m\1734\175 and nscn,m\1734\175}{subsection.7.11}% 52
+\BOOKMARK [3][-]{subsubsection.7.11.6}{Asymmetric and normalized asymmetric cumulant acn,n+m\1733\175 and nacn,n+m\1733\175}{subsection.7.11}% 53
+\BOOKMARK [1][-]{section.8}{Results}{}% 54
+\BOOKMARK [2][-]{subsection.8.1}{Outline}{section.8}% 55
+\BOOKMARK [2][-]{subsection.8.2}{Comparison between standard and 3-subevent cumulant}{section.8}% 56
+\BOOKMARK [2][-]{subsection.8.3}{2-particle cumulant cn\1732\175}{section.8}% 57
+\BOOKMARK [2][-]{subsection.8.4}{4-particle cumulant cn\1734\175 and ncn\1734\175}{section.8}% 58
+\BOOKMARK [2][-]{subsection.8.5}{4-particle cumulant in ultra-central collisions}{section.8}% 59
+\BOOKMARK [2][-]{subsection.8.6}{4-particle cumulant in 2.76 and 5.02 TeV}{section.8}% 60
+\BOOKMARK [2][-]{subsection.8.7}{6-particle cumulant cn\1736\175 and ncn\1736\175}{section.8}% 61
+\BOOKMARK [2][-]{subsection.8.8}{Universality check of flow fluctuation models}{section.8}% 62
+\BOOKMARK [2][-]{subsection.8.9}{Symmetric cumulant scn,m\1734\175 and nscn,m\1734\175}{section.8}% 63
+\BOOKMARK [2][-]{subsection.8.10}{Asymmetric cumulant acn,n+m\1733\175 and nacn,n+m\1733\175}{section.8}% 64
+\BOOKMARK [1][-]{section.9}{Selected plots for the paper}{}% 65
+\BOOKMARK [2][-]{subsection.9.1}{2-particle cumulant vn\1732\175 with n=2,3,4}{section.9}% 66
+\BOOKMARK [2][-]{subsection.9.2}{4-particle cumulant ncn\1734\175 with n=2,3,4}{section.9}% 67
+\BOOKMARK [2][-]{subsection.9.3}{6-particle cumulant ncn\1736\175 with n=2,3,4}{section.9}% 68
+\BOOKMARK [2][-]{subsection.9.4}{Cumulant ratio vn\1734\175/vn\1732\175 with n=2,3,4}{section.9}% 69
+\BOOKMARK [2][-]{subsection.9.5}{Cumulant ratio vn\1736\175/vn\1734\175 with n=2 and comparison with CMS}{section.9}% 70
+\BOOKMARK [2][-]{subsection.9.6}{Symmetric and asymmetric cumulant}{section.9}% 71
+\BOOKMARK [2][-]{subsection.9.7}{Volume fluctuation}{section.9}% 72
+\BOOKMARK [1][-]{section.10}{Summary}{}% 73
+\BOOKMARK [1][-]{section.11}{Appendix}{}% 74
+\BOOKMARK [2][-]{subsection.11.1}{Systematics from 3-subevent method}{section.11}% 75
+\BOOKMARK [2][-]{subsection.11.2}{Results for 2.76 TeV Pb+Pb}{section.11}% 76
+\BOOKMARK [2][-]{subsection.11.3}{Results for 2.76 TeV Pb+Pb HIJING}{section.11}% 77

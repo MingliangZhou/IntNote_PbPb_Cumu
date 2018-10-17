@@ -1,0 +1,51 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: CumuPbPb.aux
+The style file: ieeetr.bst
+Database file #1: CumuPbPb.bib
+Warning--I didn't find a database entry for "ATLAS:2014vba"
+Warning--empty journal in Zhou:2018fxx
+Warning--empty author in ATLAS-CONF-2017-066
+Warning--empty journal in Sirunyan:2017fts
+You've used 24 entries,
+            1876 wiz_defined-function locations,
+            631 strings with 8755 characters,
+and the built_in function-call counts, 6716 in all, are:
+= -- 660
+> -- 323
+< -- 4
++ -- 116
+- -- 92
+* -- 432
+:= -- 947
+add.period$ -- 25
+call.type$ -- 24
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 27
+duplicate$ -- 410
+empty$ -- 526
+format.name$ -- 92
+if$ -- 1676
+int.to.chr$ -- 0
+int.to.str$ -- 24
+missing$ -- 20
+newline$ -- 76
+num.names$ -- 23
+pop$ -- 60
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 341
+stack$ -- 0
+substring$ -- 248
+swap$ -- 224
+text.length$ -- 4
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 3
+while$ -- 43
+width$ -- 26
+write$ -- 245
+(There were 4 warnings)
